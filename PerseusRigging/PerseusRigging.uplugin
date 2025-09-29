@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PerseusRigging",
+	"Description": "Control Rig Plugin for Custom Rigs such as Skirts, Cuffs, and Collars",
+	"Category": "Other",
+	"CreatedBy": "MOHAMMAD JAFARIAN",
+	"CreatedByURL": "https://perseusrigging.com/",
+	"DocsURL": "https://github.com/perseusrigging",
+	"MarketplaceURL": "",
+	"SupportURL": "https://perseusrigging.com/perseusvectorconstraint/",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "RigVM",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "PerseusRigging",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
