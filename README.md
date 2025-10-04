@@ -34,9 +34,9 @@ Driver Joint – The joint driving the transformation.
 
 Driven Joint – The joint receiving the transformation.
 
-Old Min – The minimum angle (between driver and driven) where the constraint begins to affect the driven joint.
+Min – The minimum angle (between driver and driven) where the constraint begins to affect the driven joint.
 
-Old Max – The maximum angle where the effect reaches its limit.
+Max – The maximum angle where the effect reaches its limit.
 
 Rotation Weight – Multiplies the rotation values of the Transform input.
 
