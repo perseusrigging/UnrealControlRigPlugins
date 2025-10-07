@@ -1,4 +1,5 @@
-Perseus Vector Constraint Plugin for Unreal Control Rig 
+Perseus Vector Constraint Plugin for Unreal Control Rig.
+
 The binary version is compiled for Unreal Engine 5.6
 
 
