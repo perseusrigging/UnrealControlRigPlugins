@@ -1,4 +1,4 @@
-Perseus Vector Constraint Plugin for Unreal Control Rig
+Perseus Vector Constraint Plugin for Unreal Control Rig 
 
 The Perseus Vector Constraint plugin for Unreal Control Rig introduces two powerful nodes:
 
@@ -59,6 +59,7 @@ Draw Region – Displays a circle showing the active region size.
 Draw Falloff – Displays a circle showing the falloff region size.
 
 This plugin is designed to make character rigging in Unreal Control Rig more flexible and production-ready, particularly for complex setups like skirts, secondary motion, and multi-joint constraints.
+https://perseusrigging.com/perseusvectorconstraint/
 
 Mohammad Jafarian  
 contact@perseusrigging.com
