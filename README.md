@@ -1,4 +1,6 @@
 Perseus Vector Constraint Plugin for Unreal Control Rig 
+The binary version is compiled for Unreal Engine 5.6
+
 
 The Perseus Vector Constraint plugin for Unreal Control Rig introduces two powerful nodes:
 
